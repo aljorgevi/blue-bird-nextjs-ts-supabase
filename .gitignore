@@ -1,5 +1,6 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+access-token-supabase-blue-bird.txt
 # dependencies
 /node_modules
 /.pnp
